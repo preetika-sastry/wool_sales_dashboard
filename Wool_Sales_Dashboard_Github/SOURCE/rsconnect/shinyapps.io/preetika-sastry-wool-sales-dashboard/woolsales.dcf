@@ -1,0 +1,10 @@
+name: woolsales
+title:
+username: preetika-sastry-wool-sales-dashboard
+account: preetika-sastry-wool-sales-dashboard
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 13349678
+bundleId: 9368786
+url: https://preetika-sastry-wool-sales-dashboard.shinyapps.io/woolsales/
+version: 1
